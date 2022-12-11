@@ -50,25 +50,25 @@ Este repositorio solo enumera increíbles YouTubers que hablan español. Los col
 
 Hay muchos lenguajes de programación en el mercado. En esta sección, encontrará muchos de ellos, incluidos Python, C, Java. Incluso, muchos YouTubers enseñan sobre los marcos de estos lenguajes. No solo lenguajes de programación, sino también otros temas relacionados con la programación. Puedes encontrar tutoriales tanto prácticos como teóricos.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyefDOEjJdHcYOW6okP2WO1pZjf35F3vVJw1VQL=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CraterMaik)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/a/AATXAJyefDOEjJdHcYOW6okP2WO1pZjf35F3vVJw1VQL=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CraterMaik)
 
-[**CraterMaik**](https://www.youtube.com/c/CraterMaik) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-semanal.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Discord.js \
-Featured playlists: `DISCORD BOT MODULAR`, `Discord BOT | Desarrollo`, `Tutoriales Discord 2020`. \
+[**CraterMaik**](https://www.youtube.com/c/CraterMaik) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \
+Contenido sobre: Discord.js \
+Listas de reproducción destacadas: `DISCORD BOT MODULAR`, `Discord BOT | Desarrollo`, `Tutoriales Discord 2020`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwni1NXIn1P5nKqk5hQsu4rzLpXsmWKRo6Xv9DbRiRg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AAUvwni1NXIn1P5nKqk5hQsu4rzLpXsmWKRo6Xv9DbRiRg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez)
 
-[**John Ortiz Ordoñez**](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-semanal.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Python, Java, Ejercicios de programación \
-Featured playlists: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de Numpy`, `Pandas - Ejercicios`, `muchas más playlists`.
+[**John Ortiz Ordoñez**](https://www.youtube.com/c/JohnOrtizOrdo%C3%B1ez) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \
+Contenido sobre: Python, Java, Ejercicios de programación \
+Listas de reproducción destacadas: `Python - Ejercicios`, `Java - Ejercicios`, `playlists de Numpy`, `Pandas - Ejercicios`, `muchas más playlists`.
 
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwOIS7HSycIcJxcQClW1MqdHoCEG17H_9AuKauK6g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FaztCode)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/a/AATXAJwOIS7HSycIcJxcQClW1MqdHoCEG17H_9AuKauK6g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FaztCode)
 
-[**Fazt Code**](https://www.youtube.com/c/FaztCode) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-semanal.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Frontend, Backend \
-Featured playlists: `Node.js playlist`, `videos de API/REST API`, `frameworks de JavaScript`, `Node.js & Mongodb CRUD 2.0`, `otros videos relacionados`.
+[**Fazt Code**](https://www.youtube.com/c/FaztCode) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \
+Contenido sobre: Frontend, Backend \
+Listas de reproducción destacadas: `Node.js playlist`, `videos de API/REST API`, `frameworks de JavaScript`, `Node.js & Mongodb CRUD 2.0`, `otros videos relacionados`.
 
 [🔼 Volver al índice](#índice)
 
@@ -78,24 +78,24 @@ El desarrollo web comprende el desarrollo frontend: desde los más básicos (HTM
 
 ### Frontend
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQCDdQw8VAdYEVI1WxFlK6sCm1O_WgAPI_4cTh_A=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Bluuweb)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/a/AATXAJxQCDdQw8VAdYEVI1WxFlK6sCm1O_WgAPI_4cTh_A=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Bluuweb)
 
-[**Bluuweb !**](https://www.youtube.com/c/Bluuweb) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-semanal.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Frontend, Backend \
-Featured playlists: `Curso de Vue.js`, `Curso de CSS3 y Flexbox Completo`, `Bootstrap 4 Curso Completo`, `videos de JavaScript y React.js`, `Curso Firebase / Firestore desde cero 💪`.
+[**Bluuweb !**](https://www.youtube.com/c/Bluuweb) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \
+Contenido sobre: Frontend, Backend \
+Listas de reproducción destacadas: `Curso de Vue.js`, `Curso de CSS3 y Flexbox Completo`, `Bootstrap 4 Curso Completo`, `videos de JavaScript y React.js`, `Curso Firebase / Firestore desde cero 💪`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniHeNvUbV6ejNRe4_J-7r_VLLfJxD4cwoAJDtgr4_c=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ManuelMuñozMir)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AAUvwniHeNvUbV6ejNRe4_J-7r_VLLfJxD4cwoAJDtgr4_c=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ManuelMuñozMir)
 
-[**Codificandolo**](https://www.youtube.com/c/ManuelMuñozMir) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-semanal.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Frontend, Backend \
-Featured playlists: `APRENDE JAVASCRIPT | BOOTCAMP FULL STACK JAVASCRIPT`, `REACT.JS`, `JAVASCRIPT AVANZADO`, `Programación PHP`, `VUE + FIREBASE`.
+[**Codificandolo**](https://www.youtube.com/c/ManuelMuñozMir) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \
+Contenido sobre: Frontend, Backend \
+Listas de reproducción destacadas: `APRENDE JAVASCRIPT | BOOTCAMP FULL STACK JAVASCRIPT`, `REACT.JS`, `JAVASCRIPT AVANZADO`, `Programación PHP`, `VUE + FIREBASE`.
 
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLRGtOuCky5tznXZXDBT-hwt7vQdKDAJXgVU2rI1Uw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/soydalto)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AKedOLRGtOuCky5tznXZXDBT-hwt7vQdKDAJXgVU2rI1Uw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/soydalto)
 
-[**Soy Dalto**](https://www.youtube.com/c/soydalto) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="badges/badge-verificado.svg" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-semanal.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: HTML, CSS, JavaScript, Frontend \
-Featured playlists: `Curso de DISEÑO WEB desde CERO (Completo)`, `Cursos de Desarrollo Web desde CERO (Completos)`, `Aprende a PROGRAMAR (Desde Cero)`.
+[**Soy Dalto**](https://www.youtube.com/c/soydalto) [<img height="16px" width="16px" alt="Insignia para canales de YouTube verificados" src="badges/badge-verificado.svg" title="Es un canal de YouTube verificado"/>](badges/README.md#canal-de-youtube-verificado) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \
+Contenido sobre: HTML, CSS, JavaScript, Frontend \
+Listas de reproducción destacadas: `Curso de DISEÑO WEB desde CERO (Completo)`, `Cursos de Desarrollo Web desde CERO (Completos)`, `Aprende a PROGRAMAR (Desde Cero)`.
 
 ### Backend
 
@@ -106,11 +106,11 @@ Featured playlists: `Curso de DISEÑO WEB desde CERO (Completo)`, `Cursos de Des
 Los principales conceptos de informática se pueden encontrar aquí. Algunos canales enseñan sobre operaciones matemáticas, incluidas varias listas de reproducción con diferentes temas matemáticos. Lo mismo ocurre con los temas de matemáticas y física altamente relacionados con las computadoras y el hardware. Perfecto si quieres conocerlo con más profundidad.
 
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://lh3.googleusercontent.com/a-/AOh14Ghoova726gCiIS99qVYCyWFnU15WKgywPyIEhQhpw=s600-k-no-rp-mo"/>](https://www.youtube.com/c/memoriasdeuninformatico)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://lh3.googleusercontent.com/a-/AOh14Ghoova726gCiIS99qVYCyWFnU15WKgywPyIEhQhpw=s600-k-no-rp-mo"/>](https://www.youtube.com/c/memoriasdeuninformatico)
 
-[**Memorias de un Informático**](https://www.youtube.com/c/memoriasdeuninformatico) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-semanal.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Cursos sobre electrónica, linux y proyectos. \
-Featured playlists: `Curso ARM desde 0`, `Personalización de Linux`, `Curso de electrónica`. \
+[**Memorias de un Informático**](https://www.youtube.com/c/memoriasdeuninformatico) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \
+Contenido sobre: Cursos sobre electrónica, linux y proyectos. \
+Listas de reproducción destacadas: `Curso ARM desde 0`, `Personalización de Linux`, `Curso de electrónica`. \
 <br />
 
 [🔼 Volver al índice](#índice)
@@ -119,11 +119,11 @@ Featured playlists: `Curso ARM desde 0`, `Personalización de Linux`, `Curso de 
 
 Encuentre YouTubers experimentados en aprendizaje profundo, procesamiento de lenguaje natural, redes neuronales y muchos otros temas relacionados con esta amplia categoría. Una cosa buena de Machine Learning es que se puede aplicar usando diferentes lenguajes de programación, y los conceptos fundamentales tienen la misma estructura para diferentes lenguajes.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQylqFTtERgMcChh2CwtrpeSeTSTEAqf8Vb9D15xw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/RingaTech)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AKedOLQylqFTtERgMcChh2CwtrpeSeTSTEAqf8Vb9D15xw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/RingaTech)
 
-[**Ringa Tech**](https://www.youtube.com/c/RingaTech) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-semanal.svg" title="Uploads videos weekle"/>](badges.md#weekly-video-upload) \
-Content about: Inteligencia artificial, Redes neuronales \
-Featured playlists: `Inteligencia Artificial`, `Inteligencia Artificial desde cero con Python y Tensorflow`, `Visión artificial`.
+[**Ringa Tech**](https://www.youtube.com/c/RingaTech) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \
+Contenido sobre: Inteligencia artificial, Redes neuronales \
+Listas de reproducción destacadas: `Inteligencia Artificial`, `Inteligencia Artificial desde cero con Python y Tensorflow`, `Visión artificial`.
 
 [🔼 Volver al índice](#índice)
 
@@ -204,11 +204,11 @@ Los procesos de contratación de la mayoría de las empresas implican desafíos 
 Tu lado profesional se puede fortalecer mientras miras estos tutoriales. Es importante saber cómo administrar su dinero y mantenerlo bajo control, así como consejos para conseguir el trabajo que desea o iniciar su propio negocio. Encuentre también procesos de selección para empresas de tecnología/diseño/programación.
 
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
+[<img align="left" height="94px" width="94px" alt="Avatar del canal" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
 
-[**HolaMundo**](https://www.youtube.com/c/HolaMundoDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="badges/badge-semanal.svg" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Recomendaciones, Reseñas \
-Featured playlists: `un montón de videos variados`. \
+[**HolaMundo**](https://www.youtube.com/c/HolaMundoDev) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \
+Contenido sobre: Recomendaciones, Reseñas \
+Listas de reproducción destacadas: `un montón de videos variados`. \
 <br />
 
 [🔼 Volver al índice](#índice)

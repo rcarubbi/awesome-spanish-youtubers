@@ -20,7 +20,7 @@ Por favor siga el [código de conducta](https://github.com/rcarubbi/awesome-span
 ```html
 [<img align="left" height="94px" width="94px" alt="Avatar del canal" src="LINK_AL_AVATAR_DEL_CANAL_DE_YOUTUBE"/>](LINK_A_LA_PAGINA_PRINCIPAL_DEL_CANAL) 
 
-[**NOMBRE_DEL_CANAL**](LINK_A_LA_PAGINA_PRINCIPAL_DEL_CANAL) [<img height="16px" width="16px" alt="Insignia para canales de YouTube verificados" src="badges/badge-verificado.svg" title="Es un canal de YouTube verificado"/>](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#Publicación-de-video-semanal) \ 
+[**NOMBRE_DEL_CANAL**](LINK_A_LA_PAGINA_PRINCIPAL_DEL_CANAL) [<img height="16px" width="16px" alt="Insignia para canales de YouTube verificados" src="badges/badge-verificado.svg" title="Es un canal de YouTube verificado"/>](badges/README.md#canal-de-youtube-verificado) [<img height="16px" width="16px" alt="Insignia para YouTubers que suben videos semanalmente" src="badges/badge-semanal.svg" title="Publica videos semanalmente"/>](badges/README.md#publicación-de-video-semanal) \ 
 Contenido sobre: EJEMPLO, EJEMPLO, EJEMPLO \ 
 Listas de reproducción destacadas: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`,`PLAYLIST 4`. \
 <br />
