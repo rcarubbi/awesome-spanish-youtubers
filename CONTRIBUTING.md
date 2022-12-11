@@ -1,13 +1,13 @@
 # Pautas de contribución
 
-Por favor siga el [código de conducta](https://github.com/rcarubbi/awesome-spanish-youtubers/blob/main/CODIGO_DE_CONDUCTA.md).
+Por favor siga el [código de conducta](https://github.com/rcarubbi/awesome-spanish-youtubers/blob/main/CODE_OF_CONDUCT.md).
 
 ¡Agrega solo YouTubers que sean realmente **increíbles**! _"Después de todo, es una curaduría, no una colección."_. [¿Qué es increíble?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
 
 <details>
   <summary>Guía para nuevos usuarios de GitHub</summary>
   <ol>
-    <li>Ir al archivo <a href="https://github.com/rcarubbi/awesome-brazilian-youtubers/blob/main/README.md">readme.md</a> en este repositorio.</li>
+    <li>Ir al archivo <a href="https://github.com/rcarubbi/awesome-spanish-youtubers/blob/main/README.md">readme.md</a> en este repositorio.</li>
     <li>Presiona el botón "editar" (con un ícono de lápiz).</li>
     <li>Agregue el nuevo YouTuber (siguiendo el formato a continuación y al final de la sección correspondiente) y presione "Commit".</li>
     <li>Presione el botón verde "Crear un Pull Request", complete la plantilla y presione el botón verde "Crear un Pull Request" nuevamente.</li>
